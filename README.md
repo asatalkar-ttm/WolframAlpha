@@ -3,11 +3,11 @@
 WolframAlpha API using Java
 
 ## Technologies / Tools used : 
-* WolframAlpha API
-* Java
-* Maven
-* Gson
-* OkHttp
+* [WolframAlpha API] (https://products.wolframalpha.com/api/documentation/)
+* [Java] (https://www.java.com/en/)
+* [Maven] (https://maven.apache.org/)
+* [Gson] (https://mvnrepository.com/artifact/com.google.code.gson/gson/2.8.5)
+* [OkHttp] (https://mvnrepository.com/artifact/com.squareup.okhttp/okhttp/2.7.5)
 
 To run the program first create an account on WolframAlpha's developer page, http://developer.wolframalpha.com/portal/myapps/ .
 Then click on the create an App ID button which will generate an APPID and the screen will look something similar to this.
