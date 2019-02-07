@@ -29,3 +29,7 @@ Once the repo is cloned, run the command ```mvn clean package```
 This will generate a BIG FAT JAR, which we'll use to execute the program.
 
 Execute the program by running the command ```java -jar target/search-1.0-jar-with-dependencies.jar <search arguments>```
+
+Example :
+
+```java -jar target/search-1.0-jar-with-dependencies.jar earth```
